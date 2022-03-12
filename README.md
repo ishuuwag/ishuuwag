@@ -1,7 +1,7 @@
 - 👋🏾 Hi, I’m Gervasius, a hands on developer.
 - 👀 I’m interested in web & mobile development
 - 🌱 I’m currently learning Docker & Kurbenetes
-- 📫 How to reach me by email : gishuuwa@gmail.com
+- 📫 You can reach me by email : gishuuwa@gmail.com
 
 <!---
 ishuuwag/ishuuwag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
